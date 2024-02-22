@@ -4,6 +4,10 @@
 
 https://openjdk.org/jeps/382
 
+JEP 382 represents a significant step forward for Java applications on macOS, providing a more efficient and future-proof rendering pipeline that leverages the latest graphics technology offered by Apple
+
+This update is part of the ongoing efforts to keep Java a versatile and high-performance platform across different operating systems and hardware configurations
+
 **Java 17 language specification: https://docs.oracle.com/javase/specs/jls/se17/html/index.html**
 
 While the **New macOS Rendering Pipeline (JEP 382) in Java 17** is more about the underlying rendering mechanism that Java uses on macOS rather than a feature that developers interact with directly, I provide you
